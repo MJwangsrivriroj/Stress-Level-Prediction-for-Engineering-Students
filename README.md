@@ -1,6 +1,5 @@
 # Stress-Level-Prediction-for-Engineering-Students
-This project predicts stress levels in engineering students based on factors like sleep quality, study load, headaches, academic performance, and extracurricular activities. By analyzing these variables, we aim to identify key stressors and offer insights to help students better manage stress.
-# Stress Level Prediction for Engineering Students
+
 
 ## 📖 **Project Overview**
 This project aims to explore the factors contributing to stress levels in engineering students. Engineering programs are demanding, with long study hours, heavy workloads, and high-pressure exams. Our goal is to identify what stresses students the most and provide insights that could help reduce stress and improve student well-being.
